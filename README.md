@@ -2,7 +2,7 @@
 Arduino based AD8232 Pan-Tompkins QRS-detector and Datalogger
 
 
-/* © Script written by Tim Möller
+* © Script written by Tim Möller
  * Humboldt Universität zu Berlin
  * Berlin School of Mind and Brain Berlin
  * 
@@ -23,4 +23,5 @@ Arduino based AD8232 Pan-Tompkins QRS-detector and Datalogger
  * This example code is in the public domain.
  * 
  * Last modified: 25.03.2020
- */
+ *
+ 
