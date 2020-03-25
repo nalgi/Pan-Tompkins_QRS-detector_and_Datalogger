@@ -1,5 +1,10 @@
 # Pan-Tompkins_QRS-detector_and_Datalogger
-Arduino based AD8232 Pan-Tompkins QRS-detector and Datalogger
+Provided is an Arduino based AD8232 Pan-Tompkins QRS-detector and Datalogger that can plot and send Serial information to Unity (Arduino_QRS-detector) at the same time as well as an Unity 3D script (Arduino_Read) that receives the data. The processed Arduino data can be also send to other programs and is not limited to Unity 3D alone. 
+
+For more in depth details and performance, see the following paper: (Link to paper)
+
+It is possible 
+
 
 
 * © Script written by Tim Möller
@@ -13,7 +18,7 @@ Arduino based AD8232 Pan-Tompkins QRS-detector and Datalogger
  *  * This script also saves the Date, the Timestamp, a Timer that counts the passed time and a 
  *  counter for the number of recorded data-points.
  *  
- * Some of the code contains element from available, open access, existing scripts:
+ * Some of the code contains element from available, open access, existing scripts and is marked sccordingly inside the code. The complete Code-snippets that were used can be found under:
  * https://github.com/adafruit/Adafruit_SSD1306
  * https://github.com/blakeMilner/real_time_QRS_detection
  * https://github.com/dxinteractive/ResponsiveAnalogRead
