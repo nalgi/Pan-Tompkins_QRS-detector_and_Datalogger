@@ -35,3 +35,5 @@ This Setup proved to be fast and reliable and suitable for scientific research (
  * Last modified: 25.03.2020
  *
  
+ Please cite as XXX
+ 
