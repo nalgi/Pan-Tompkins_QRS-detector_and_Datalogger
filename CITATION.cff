@@ -1,0 +1,20 @@
+
+cff-version: 1.2.0
+
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Möller"
+  given-names: "Tim Julian"
+  email: tim.julian.moeller@gmail.com
+  orcid: "https://orcid.org/0000-0002-2013-0713"
+  affiliation: >-
+      Berlin School of Mind and Brain,
+      Humboldt-Universität zu Berlin, Germany;
+      Department for Psychiatry and Psychotherapy,
+      Charité University Medicine, Berlin, Germany
+  
+title: "Pan Tompkins QRS detector and Datalogger"
+type: software
+doi: 10.5281/zenodo.5809247
+date-released: 2021-12-29
+url: "https://github.com/nalgi/Pan-Tompkins_QRS-detector_and_Datalogger"
