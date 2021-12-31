@@ -1,7 +1,8 @@
 /* Script written by Tim J. Möller
  * Humboldt Universität zu Berlin
  * Berlin School of Mind and Brain, Berlin, Germany
- * 
+ * Department of Psychiatry and Psychotherapy, Charité University Medicine, Berlin, Germany
+ 
  * Contact: tim.julian.moeller@gmail.com
  * 
  * This script records data from the AD8232 shield and plots the data.
