@@ -1,7 +1,7 @@
 # Pan-Tompkins_QRS-detector_and_Datalogger
 Provided is an Arduino based AD8232 Pan-Tompkins QRS-detector and Datalogger that can plot and send Serial information to Unity (Arduino_QRS-detector) at the same time as well as an Unity 3D script (Arduino_Read) that receives the data. The processed Arduino data can be also send to other programs and is not limited to Unity 3D alone. A Fritzing schematic for wiring and needed components can be found under the "Pictures" folder. Pictures of the real setup are also available there.  
 
-For more in depth details and performance, see the following paper: (Link to paper)
+For more in depth details and performance, see the following paper: https://arxiv.org/pdf/2204.00513.pdf
 
 This script  saves the Date, the Timestamp, a Timer that counts the passed time and a counter for the number of recorded data-points, if enabled. The data is automatically saved on a microSD card and shows an error, when no data can be written on the SD card. This option can be disabled, too. 
 
@@ -12,8 +12,8 @@ It can be decided if tones should be played together with the QRS detection and 
 This Setup proved to be fast and reliable and suitable for scientific research (For more information, see: Link to paper) and can be used according to the MIT license. 
 
 
-* © Script written by Tim Möller
- * Humboldt Universität zu Berlin
+* © Script written by Tim J. Möller
+ * Humboldt-Universität zu Berlin
  * Berlin School of Mind and Brain Berlin
  * 
  * This script records data from the AD8232 shield and plots the data.
@@ -35,5 +35,5 @@ This Setup proved to be fast and reliable and suitable for scientific research (
  * Last modified: 25.03.2020
  *
  
- Please cite as XXX
+ Please cite as Möller, T. J., Voss, M., & Kaltwasser, L. (2022). An Arduino based heartbeat detection device (ArdMob-ECG) for real-time ECG analysis. arXiv preprint arXiv:2204.00513.
  
